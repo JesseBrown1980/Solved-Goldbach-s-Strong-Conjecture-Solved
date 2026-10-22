@@ -1,0 +1,9 @@
+[package]
+name = "goldbach-3adic-spectral"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jesse Daniel Brown <JesseBrown1980>", "Rayssa Chiqueto"]
+description = "Goldbach's Strong Conjecture Solved: Additive Z vs Multiplicative Z3 via 3-Adic Spectral Convolution"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
